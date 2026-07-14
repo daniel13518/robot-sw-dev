@@ -5,11 +5,22 @@
 
 ## 실행 방법
 
-\`\`\`
-pip install -r requirements.txt
-streamlit run Home.py
+1. 저장소 클론
+\`\`\`bash
+git clone https://github.com/daniel13518/robot-sw-dev.git
+cd robot-sw-dev
 \`\`\`
 
+2. 필요한 패키지 설치
+\`\`\`bash
+pip install -r requirements.txt
+\`\`\`
+
+3. 앱 실행
+\`\`\`bash
+streamlit run Home.py
+\`\`\`
+🔗 **바로 실행해보기**: [배포된 앱 링크](https://robot-sw-de.streamlit.app/)
 ## 주차별 과제
 
 ### 1주차 - 로봇 자유도(DOF) 계산기
