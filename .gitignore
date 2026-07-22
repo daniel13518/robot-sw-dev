@@ -1,0 +1,8 @@
+# Claude Code 로컬 설정 (배포와 무관)
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
