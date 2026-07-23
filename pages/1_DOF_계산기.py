@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("DOF 계산기")
 
-# ---- 이론 정리 (접이식) : 본인이 이해한 내용으로 자유롭게 수정하세요 ----
+# ---- 이론 정리 (접이식) ----
 with st.expander("📖 이론 정리 — 자유도(DOF) & Kutzbach 공식"):
     st.markdown(
         """

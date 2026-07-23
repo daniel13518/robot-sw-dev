@@ -4,7 +4,7 @@ import streamlit as st
 
 st.title("정기구학 시뮬레이션 (6DOF, 6자유도)")
 
-# ---- 이론 정리 (접이식) : 본인이 이해한 내용으로 자유롭게 수정하세요 ----
+# ---- 이론 정리 (접이식) ----
 with st.expander("📖 이론 정리 — DH 파라미터 & 정기구학"):
     st.markdown(
         """
